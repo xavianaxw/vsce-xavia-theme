@@ -11,3 +11,6 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+**Things to fix**
+1. [sidebar] Highlight color when right-clicking on an item -- change to green shade
