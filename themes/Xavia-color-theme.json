@@ -2,10 +2,11 @@
 	"name": "Xavia",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
+		"editor.background": "#333333",
 		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#00C9AB",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"statusBar.background": "#00C9AB" 
 	},
 	"tokenColors": [
 		{
@@ -385,7 +386,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
