@@ -3,10 +3,28 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#333333",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#00C9AB",
+		"editor.foreground": "#DEE2E3",
+		"activityBarBadge.background": "#2AA198",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"statusBar.background": "#00C9AB" 
+		"statusBar.background": "#2AA198",
+		"button.foreground": "#ffffff",
+		"button.background": "#2AA198",
+		"button.hoverBackground": "#18827B",
+		"input.border": "#2AA198",
+		"focusBorder": "#18827B",
+		"inputOption.activeBorder": "#2AA198",
+		"badge.background": "#2AA198",
+		"progressBar.background": "#2AA198",
+		"list.activeSelectionBackground": "#2AA198",
+		"editor.selectionBackground": "#2AA19850",
+		"editor.selectionHighlightBackground": "#2AA19850",
+		"editor.inactiveSelectionBackground": "#2AA19850",
+		"editor.wordHighlightBackground": "#2AA19850",
+		"editor.wordHighlightStrongBackground": "#2AA19850",
+		"editor.findMatchHighlightBackground": "#2AA19850",
+		"editor.findRangeHighlightBackground": "#2AA19850",
+		"editor.lineHighlightBackground": "#00000030",
+		"editor.lineHighlightBorder": "#00000000"
 	},
 	"tokenColors": [
 		{
@@ -64,7 +82,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00C9AB"
+				"foreground": "#2AA198"
 			}
 		},
 		{
@@ -90,7 +108,7 @@
 				"punctuation.definition.keyword.scss"
 			],
 			"settings": {
-				"foreground": "#00C9AB"
+				"foreground": "#2AA198"
 			}
 		},
 		{
@@ -103,7 +121,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#00C9AB"
+				"foreground": "#2AA198"
 			}
 		},
 		{
@@ -336,7 +354,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
