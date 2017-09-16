@@ -1,0 +1,22 @@
+{
+    "name": "xavia",
+    "displayName": "Xavia",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "xavianaxw",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Xavia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Xavia-color-theme.json"
+            }
+        ]
+    }
+}
