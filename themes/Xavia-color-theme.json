@@ -214,7 +214,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "foreground": "#800f00"
+        "foreground": "#FF3232"
       }
     },
     {
@@ -263,7 +263,7 @@
       "name": "Punctuation Template Expression",
       "scope": "punctuation.definition.template-expression",
       "settings": {
-        "foreground": "#ffee80"
+        "foreground": "#F7895E"
       }
     },
     {
