@@ -510,7 +510,7 @@
       "name": "[JAVASCRIPT] - Storage Type Function",
       "scope": "source.js storage.type.function",
       "settings": {
-        "foreground": "#fb94ff"
+        "foreground": "#00A68C"
       }
     },
     {
