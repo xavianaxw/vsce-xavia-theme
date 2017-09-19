@@ -164,7 +164,10 @@
     "titleBar.activeBackground": "#00A68C",
     "titleBar.activeForeground": "#eeeeee",
     "titleBar.inactiveBackground": "#2a2a2a",
-    "titleBar.inactiveForeground": "#eeeeee"
+    "titleBar.inactiveForeground": "#eeeeee",
+    // welcome page
+    "welcomePage.buttonBackground": "#141414",
+    "welcomePage.buttonHoverBackground": "#00A68c"
   },
   // colors used
   // 00a68c - primary color
