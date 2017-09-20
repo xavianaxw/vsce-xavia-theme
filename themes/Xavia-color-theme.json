@@ -260,13 +260,6 @@
       }
     },
     {
-      "name": "Punctuation Template Expression",
-      "scope": "punctuation.definition.template-expression",
-      "settings": {
-        "foreground": "#F7895E"
-      }
-    },
-    {
       "name": "Storage",
       "scope": "storage",
       "settings": {
@@ -315,13 +308,6 @@
       }
     },
     {
-      "name": "Support Function",
-      "scope": "support.function",
-      "settings": {
-        "foreground": "#ffffff"
-      }
-    },
-    {
       "name": "Support Variable Property DOM",
       "scope": "support.variable.property.dom",
       "settings": {
@@ -353,7 +339,8 @@
       "name": "[CSS] - Entity",
       "scope": [
         "source.css entity",
-        "source.css entity punctuation"
+        "source.css entity punctuation",
+        "text.html.basic source.css entity.other"
       ],
       "settings": {
         "foreground": "#00A68C"
@@ -383,6 +370,16 @@
       "scope": "source.css support",
       "settings": {
         "foreground": "#d6d6d6"
+      }
+    },
+    {
+      "name": "[JAVASCRIPT] Support Function + Entity Function",
+      "scope": [
+        "source.css support.function"
+      ],
+      "settings": {
+        "fontStyle": "bold italic",
+        "foreground": "#ffffff"
       }
     },
     {
@@ -461,7 +458,7 @@
       "scope": "text.html.basic entity.other",
       "settings": {
         "fontStyle": "bold italic",
-        "foreground": "#d6d6d6"
+        "foreground": "#ffffff"
       }
     },
     // {
@@ -533,6 +530,40 @@
       "scope": "entity.name.type.class.js",
       "settings": {
         "foreground": "#d6d6d6"
+      }
+    },
+    {
+      "name": "[JAVASCRIPT] Support Function + Entity Function",
+      "scope": [
+        "source.js support.function",
+        "source.js entity.name"
+      ],
+      "settings": {
+        "fontStyle": "bold italic",
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "[JAVASCRIPT] New keyword",
+      "scope": [
+        "source.js keyword.operator.new"
+      ],
+      "settings": {
+        "foreground": "#F7895E"
+      }
+    },
+    {
+      "name": "[JAVASCRIPT] Punctuation Template Expression + Variables Within",
+      "scope": "source.js punctuation.definition.template-expression",
+      "settings": {
+        "foreground": "#F7895E"
+      }
+    },
+    {
+      "name": "[JAVASCRIPT] Variables Within Template Expression",
+      "scope": "source.js meta.template.expression variable",
+      "settings": {
+        "foreground": "#ffffff"
       }
     },
     {
