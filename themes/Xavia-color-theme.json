@@ -84,29 +84,33 @@
     "tab.unfocusedInactiveForeground": "#eeeeee",
 		// editor
 		"editor.background": "#222222",
-		"editor.foreground": "#eee",
+		"editor.foreground": "#d6d6d6",
 		// "editorLineNumber.foreground": "",
 		// "editorCursor.foreground": "",
 		// This is the standard Select colour
-		"editor.selectionBackground": "#323232",
+		"editor.selectionBackground": "#555555",
 		// This is the colour of the other matching elements
-		"editor.selectionHighlightBackground": "#00A68C85",
+    // "editor.selectionHighlightBackground": "#00A68C85",
+    "editor.selectionHighlightBackground": "#00000000",
 		// if you tab away you can colour it differently, but ill leave this one out
     // "editor.inactiveSelectionBackground": "",
 		// Word Highlights! This happens when you move your cursor inside a variable
     // Strong is the one where your cursor currently is
-    "editor.wordHighlightStrongBackground": "#323232",
+    "editor.wordHighlightStrongBackground": "#555555",
     // and this one is the rest of them
-    "editor.wordHighlightBackground": "#00A68C85",
+    // "editor.wordHighlightBackground": "#00A68C85",
+    "editor.wordHighlightBackground": "#00A68C",
     // Okay this part is confusing as heck!
-    // Currently found item
-    "editor.findMatchBackground": "#323232",
+    // Currently found item - when using Find feature
+    // "editor.findMatchBackground": "#323232",
+    "editor.findMatchBackground": "#00A68C",
     // Other Found Items int the document
-    "editor.findMatchHighlightBackground": "#00A68C85",
+    "editor.findMatchHighlightBackground": "#555555",
     // WTF is this one for? I don't know
-    "editor.findRangeHighlightBackground": "#00A68C85",
+    "editor.findRangeHighlightBackground": "#555555",
     // When you hover over something and a popup shows, this highlights that thing
-    "editor.hoverHighlightBackground": "#323232",
+    // "editor.hoverHighlightBackground": "#323232",
+    "editor.hoverHighlightBackground": "#00A68C",
     // current line styles
     "editor.lineHighlightBackground": "#323232",
 		"editor.lineHighlightBorder": "#00000000",
