@@ -815,6 +815,16 @@
       "settings": {
         "foreground": "#F5C827"
       }
+    },
+    {
+      "name": "[PHP] - Opening Tags",
+      "scope": [
+        "punctuation.section.embedded.begin.php", 
+        "punctuation.section.embedded.end.php"
+      ],
+      "settings": {
+        "foreground": "#FF3232"
+      }
     }
   ]
 }
