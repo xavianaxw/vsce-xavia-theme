@@ -99,18 +99,18 @@
     "editor.wordHighlightStrongBackground": "#555555",
     // and this one is the rest of them
     // "editor.wordHighlightBackground": "#00A68C85",
-    "editor.wordHighlightBackground": "#00A68C",
+    "editor.wordHighlightBackground": "#00A68C70",
     // Okay this part is confusing as heck!
     // Currently found item - when using Find feature
     // "editor.findMatchBackground": "#323232",
-    "editor.findMatchBackground": "#00A68C",
+    "editor.findMatchBackground": "#00A68C70",
     // Other Found Items int the document
     "editor.findMatchHighlightBackground": "#555555",
     // WTF is this one for? I don't know
     "editor.findRangeHighlightBackground": "#555555",
     // When you hover over something and a popup shows, this highlights that thing
     // "editor.hoverHighlightBackground": "#323232",
-    "editor.hoverHighlightBackground": "#00A68C",
+    "editor.hoverHighlightBackground": "#00A68C70",
     // current line styles
     "editor.lineHighlightBackground": "#323232",
 		"editor.lineHighlightBorder": "#00000000",
