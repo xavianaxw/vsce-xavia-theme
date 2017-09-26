@@ -445,7 +445,7 @@
     },
     {
       "name": "[HTML] - Element Tag",
-      "scope": "text.html.basic entity.name.tag",
+      "scope": "entity.name.tag.block.any.html, text.html.basic entity.name.tag",
       "settings": {
         "foreground": "#00A68C"
       }
@@ -459,7 +459,7 @@
     },
     {
       "name": "[HTML] - Entity Other",
-      "scope": "text.html.basic entity.other",
+      "scope": "entity.other.attribute-name.html",
       "settings": {
         "fontStyle": "bold italic",
         "foreground": "#ffffff"
