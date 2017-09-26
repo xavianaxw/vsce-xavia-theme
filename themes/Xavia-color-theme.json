@@ -445,7 +445,7 @@
     },
     {
       "name": "[HTML] - Element Tag",
-      "scope": "entity.name.tag.block.any.html, text.html.basic entity.name.tag",
+      "scope": "text.html entity.name.tag",
       "settings": {
         "foreground": "#00A68C"
       }
