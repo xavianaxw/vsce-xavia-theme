@@ -13,4 +13,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 **Enjoy!**
 
 **Things to fix**
-1. [sidebar] Highlight color when right-clicking on an item -- change to green shade
+1. [editor] add color support for nunjucks/liquid/shopify 
